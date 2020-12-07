@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sno2&label=Profile%20views&color=0e75b6&style=flat" alt="sno2" /> </p>
+
 ### Hi there 👋
 
 #### I'm `sno2`
@@ -66,3 +68,9 @@ All right, so that sums up my online life quite well.  Oh, except that I'm a 16 
 
 - Git
   - GitHub
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sno2&show_icons=true&locale=en&layout=compact" alt="sno2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sno2&show_icons=true&locale=en" alt="sno2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sno2&" alt="sno2" /></p>

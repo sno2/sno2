@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sno2&label=Profile%20views&color=0e75b6&style=flat" alt="sno2" /> </p>
 
-### Hi there 👋
-
-#### I'm `sno2`
+### Hello, I'm Carter.
 
 I like to code in many different languages and frameworks, but my favorite language is probably either TypeScript or Rust.  I am still studying the intricancies of Rust, though I hope to soon have as proficient of knowledge as I do with TypeScript.  Most of my GitHub projects are either a Vue website or a Deno module.  I also love Vue, especially Vue 3!  Although, I have created multiple projects in every popular JavaScript project (Vue, React, Svelte, + some other ones I have forgotten).
 

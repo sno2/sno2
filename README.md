@@ -4,7 +4,7 @@
 
 I like to code in many different languages and frameworks, but my favorite language is probably either TypeScript or Rust.  I am still studying the intricancies of Rust, though I hope to soon have as proficient of knowledge as I do with TypeScript.  Most of my GitHub projects are either a Vue website or a Deno module.  I also love Vue, especially Vue 3!  Although, I have created multiple projects in every popular JavaScript project (Vue, React, Svelte, + some other ones I have forgotten).
 
-Off of my GitHub account, I also create [free tutorial videos](https://www.youtube.com/CodingUnited) on basically everything dev and also have a [couple of free courses](https://www.udemy.com/user/coding-united/) released with over 10,000 enrollments in total.  My Udemy & YouTube accounts are both aliased under the name `Coding United`.  Currently, I've been delving into the cryptocurrencies with [thenewboston](https://thenewboston.com) and porting their servers to Rust.  Prior to that, I was working on their [TypeScript SDK library](https://github.com/thenewboston-developers/thenewboston-js).
+Off of my GitHub account, I also create [free tutorial videos](https://www.youtube.com/CodingUnited) on basically everything dev and also have a [couple of free courses](https://www.udemy.com/user/coding-united/) released with over 10,000 enrollments in total.  My Udemy & YouTube accounts are both aliased under the name `Coding United`.
 
 All right, so that sums up my online life quite well.  Oh, except that I'm a 16 y/o.  If you do _really_ care about stats, then here are all of the technologies that I am skilled in:
 

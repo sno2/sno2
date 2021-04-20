@@ -6,7 +6,10 @@ I like to code in many different languages and frameworks, but my favorite langu
 
 Off of my GitHub account, I also create [free tutorial videos](https://www.youtube.com/CodingUnited) on basically everything dev and also have a [couple of free courses](https://www.udemy.com/user/coding-united/) released with over 10,000 enrollments in total.  My Udemy & YouTube accounts are both aliased under the name `Coding United`.
 
-All right, so that sums up my online life quite well.  Oh, except that I'm a 16 y/o.  If you do _really_ care about stats, then here are all of the technologies that I am skilled in:
+All right, so that sums up my online life quite well.  Oh, except that I'm a 16 y/o.  If you do _really_ care about stats, then here are all of the technologies that I am skilled in (expand to see):
+<details>
+<summary>Expand to see</summary>
+  <div>
 
 ### Programming Languages
 
@@ -66,7 +69,8 @@ All right, so that sums up my online life quite well.  Oh, except that I'm a 16 
 
 - Git
   - GitHub
-
+  </div>
+</details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sno2&show_icons=true&locale=en&layout=compact" alt="sno2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sno2&show_icons=true&locale=en" alt="sno2" /></p>
